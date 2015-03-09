@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">cdd0021HAIKU</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="radioButton1">Adjectives</string>
+    <string name="radioButton2">Nouns</string>
+    <string name="radioButton3">Verbs</string>
+    <string name="radioButton4">Other</string>
+    <string name="stringList1">1)</string>
+    <string name="stringList2">2)</string>
+    <string name="stringList3">3)</string>
+    <string name="buttonDeleteLastWord">DELETE THE LAST WORD ADDED</string>
+    <string name="buttonStartOver">START OVER</string>
+    <string name="buttonDisplay">DISPLAY</string>
+    <string name="add">ADD</string>
+    <string name="toTheHaiku">TO THE HAIKU</string>
+
+</resources>
